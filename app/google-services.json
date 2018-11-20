@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095747757503",
+    "firebase_url": "https://androidorderfood-ccdfc.firebaseio.com",
+    "project_id": "androidorderfood-ccdfc",
+    "storage_bucket": "androidorderfood-ccdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095747757503:android:d3639a075fbfd286",
+        "android_client_info": {
+          "package_name": "com.example.asus.androidorderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095747757503-bg41ap0nagv2jdr87l1mfmvjm25f2rpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.androidorderfood",
+            "certificate_hash": "aa7e90a3b86a540da0156155495f86c3dc796915"
+          }
+        },
+        {
+          "client_id": "1095747757503-i10a3ogncpor4g6i5tn9g2nhd1slah3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkUgNTOEEWWdOJ-bgYtBYeztxYETbNQ_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095747757503-i10a3ogncpor4g6i5tn9g2nhd1slah3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
